@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Willian
-- 📚 Currently doing Computer Science in UNIFRAN
-- 🧑 I'm 19 years old
+- 📚 Studying Computer Science in UNIFRAN
+- 🌎 Brazilian
+- 🧑 19 years old
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning CSS, HTML and JavaScript
 
