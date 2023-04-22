@@ -2,8 +2,10 @@
 - 📚 Studying Computer Science in UNIFRAN
 - 🌎 Brazilian
 - 🧑 20 years old
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning CSS, HTML and JavaScript
+- 👀 I’m interested in Python and Java
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Java
+- 💼 Working as IT apprentice
+- 💡 Gaining knowledge in Linux and Network Infrastructure
 
 
 <!---
