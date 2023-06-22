@@ -7,6 +7,8 @@
 - 💼 Working as IT apprentice
 - 💡 Gaining knowledge in Linux and Network Infrastructure
 
+![Snake animation](https://github.com/willian-bl/willian-bl/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 willian-bl/willian-bl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
